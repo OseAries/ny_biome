@@ -1,0 +1,4 @@
+<!DOCTYPE connections>
+<qgsARCGISFEATURESERVERConnections version="1.0">
+    <arcgisfeatureserver url="https://services.arcgis.com/at3rDjch5X7i9Bag/arcgis/rest/services/MS42020_Outfalls/FeatureServer/0" username="" name="MS4 Outfalls" authcfg="" referer="" password=""/>
+</qgsARCGISFEATURESERVERConnections>
